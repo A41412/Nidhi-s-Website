@@ -1,0 +1,37 @@
+*{
+        background-color: rgb(144, 241, 241);
+        font-family:Arial, Helvetica, sans-serif;
+        } 
+.container{
+    margin: 0;
+    text-align: justify;
+    color: rgb(24, 126, 126);
+}
+.Summery
+{
+    display: flexbox;
+    justify-content:left;
+    font-size: 1rem;
+    color: rgb(24, 126, 126);
+ }
+.photo{
+    border-radius: 50%;
+    }
+.education{
+    display: flexbox;
+    justify-content: left;
+    font-size: 1rem;
+    color: rgb(24, 126, 126);
+    }
+.workexperience{
+    display: flexbox;
+    justify-content: left;
+    font-size: 1rem;
+    color: rgb(24, 126, 126);
+    }
+.skills{
+    display: flexbox;
+    justify-content: left;
+    font-size: 1rem;
+    color: rgb(24, 126, 126);
+}
